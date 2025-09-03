@@ -1,7 +1,7 @@
 ---
 title: Tell me about OSM Foundation Working Groups
 description: The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap
-lang: en
+lang: bn
 ---
 
 The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.
